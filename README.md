@@ -2,8 +2,8 @@
 ESP8266 based 7 segment clock
 
 # Videos
-Part 1: https://www.youtube.com/watch?v=0H1_9tu25HU
-Part 2: https://www.youtube.com/watch?v=LJ9TrVol3vA
+- Part 1: https://www.youtube.com/watch?v=0H1_9tu25HU
+- Part 2: https://www.youtube.com/watch?v=LJ9TrVol3vA
 
 # Hardware used
 
