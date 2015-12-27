@@ -225,7 +225,7 @@
     
         unsigned long newoffset = temptime - tempmillis;
 
-        int diff = 0;
+        long diff = 0;
         if(offset_clock != 0) diff = offset_clock - newoffset;
 
         offset_clock = (temptime - tempmillis) * 1000;
